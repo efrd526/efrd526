@@ -10,6 +10,8 @@ Mobile flutter developer with over 2 years of commercial flutter development exp
 ## 🛠 Skills
 Javascript, HTML, CSS...
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efrd526&hide_progress=true)
+
 
 
 
