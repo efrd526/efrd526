@@ -6,7 +6,7 @@ Mobile flutter developer with over 2 years of commercial flutter development exp
 
 
 ## 🛠 Skills
-•  Flutter ( mobile, desktop, web)<br />
+•  Flutter ( mobile, desktop, web), Java<br />
 •  Provider, bloc ( Cubit )<br />
 •  Firebase, NoSQL, JSON, SQlite, MySQL<br />
 •  intl ( locale )<br />
