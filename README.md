@@ -6,14 +6,14 @@ Mobile flutter developer with over 2 years of commercial flutter development exp
 
 
 ## 🛠 Skills
-Flutter ( mobile, desktop, web)<br />
-provider, bloc ( Cubit )<br />
-Firebase, NoSQL, JSON, SQlite, MySQL<br />
-intl ( locale )<br />
-Git<br />
-CD/CI ( codemagic )<br />
-Publish - Google Play, GetApps (Xiaomi App Store)<br />
-Figma<br />
+•  Flutter ( mobile, desktop, web)<br />
+•  Provider, bloc ( Cubit )<br />
+•  Firebase, NoSQL, JSON, SQlite, MySQL<br />
+•  intl ( locale )<br />
+•  Git<br />
+•  CD/CI ( codemagic )<br />
+•  Publish - Google Play, GetApps (Xiaomi App Store)<br />
+•  Figma<br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
