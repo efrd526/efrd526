@@ -15,7 +15,7 @@ Mobile flutter developer with over 2 years of commercial flutter development exp
 •  Publish - Google Play, GetApps (Xiaomi App Store)<br />
 •  Figma<br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 
 
 
