@@ -17,7 +17,7 @@ Mobile flutter developer with over 2 years of commercial flutter development exp
 •  Figma<br />
 
 
-Postman
+Postman, native modules ( Android ) 
 
 
 
