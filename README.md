@@ -14,7 +14,7 @@ Mobile flutter developer with over 2 years of commercial flutter development exp
 •  intl ( locale )<br />
 •  Git<br />
 •  CD/CI ( codemagic )<br />
-•  Publish - Google Play, GetApps (Xiaomi App Store)<br />
+•  Publish - Google Play, GetApps (Xiaomi App Store), AppGallery<br />
 •  Mobile analytics systems - Google Analytics, AppMetrica<br />
 •  Mobile ads systems - Google ADS, Yandex.Direct, Kadam, vk ads<br />
 •  Figma<br />
