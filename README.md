@@ -8,9 +8,9 @@ Mobile flutter developer with over 2 years of commercial flutter development exp
 ## 🛠 Skills
 •  Flutter ( mobile, desktop, web), Java<br />
 •  Provider, bloc ( Bloc, Cubit )<br />
-•  Firebase, MongoDB, NoSQL, MySQL, JSON, SQlite, Shared preferences<br />
+•  Firebase, MongoDB, Superbase, NoSQL, MySQL, JSON, SQlite, Shared preferences<br />
 •  REST Api, WebSocket<br /> 
-•  AutoRoute<br />
+•  AutoRoute, go_router<br />
 •  intl ( locale )<br />
 •  Git<br />
 •  CD/CI ( codemagic )<br />
